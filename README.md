@@ -5,6 +5,6 @@ lab04 https://github.com/srihanreddy/chinthalaphani-srihan-reddy/blob/main/LAB_A
 lab05 https://github.com/srihanreddy/chinthalaphani-srihan-reddy/blob/main/Assignment_5.ipynbab05
 lab07 https://github.com/srihanreddy/chinthalaphani-srihan-reddy/blob/main/Lab07-SVM.ipynb
 lab06 https://github.com/srihanreddy/chinthalaphani-srihan-reddy/blob/main/Lab06-AIML.ipynb
-lab08
+lab08 https://github.com/srihanreddy/chinthalaphani-srihan-reddy/blob/main/Lab10-AIML.ipynb
 lab09
 lab10
